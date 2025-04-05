@@ -1,1 +1,1 @@
-# ser(speech emotion recognition)
+# sed(speech emotion detection)
